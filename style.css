@@ -62,6 +62,13 @@ td {
   border: 1px solid #000;
   width: 33%;
 }
+
+.td-logo {
+  background: #326fd1;
+  border-radius: 10px;
+  border: 1px solid #000;
+}
+
 A:link {
     text-decoration: none; /* Убирает подчеркивание для ссылок */
    }
