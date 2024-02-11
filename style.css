@@ -1,0 +1,53 @@
+table {
+//  border: 1px solid;
+}
+.table-head {
+color: white;
+  font-family: Calibri;
+ width: 1000px; /* Ширина таблицы */
+ /*border: 1px ;  Рамка вокруг таблицы */
+ margin: auto; /* Выравниваем таблицу по центру окна  */
+}
+
+.table-menu {
+  color: white;
+  background: #326fd1;
+  font-family: Calibri;
+ width: 100%; /* Ширина таблицы */
+ /*border: 1px solid green;  Рамка вокруг таблицы */
+ margin: auto; /* Выравниваем таблицу по центру окна  */
+}
+
+a {
+  text-decoration: none;
+}
+
+.table-photo {
+  //width: 100%;
+ /* Ширина таблицы */
+ /*border: 1px solid green;  Рамка вокруг таблицы */
+  margin: auto; /* Выравниваем таблицу по центру окна  */
+}
+
+.imgwork{
+  width: 250px;
+  height: 350px;
+}
+
+.text-cit{
+  font-family: Calibri;
+  text-align: center;
+}
+
+.document{
+  text-align: center;
+}
+
+
+td {
+ //border: 1px solid;
+ text-align: center; /* Выравниваем текст по центру ячейки */
+}
+.td-menu {
+  width: 33%;
+}
