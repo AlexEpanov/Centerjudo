@@ -39,6 +39,12 @@ a {
   text-align: center;
 }
 
+.text-link{
+  color: #542dab;
+  font-family: Calibri;
+  text-align: center;
+}
+
 .document{
   text-align: center;
 }
@@ -51,3 +57,8 @@ td {
 .td-menu {
   width: 33%;
 }
+A:link {
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+   }
+A:visited { text-decoration: none; }
+A:active { text-decoration: none; }
