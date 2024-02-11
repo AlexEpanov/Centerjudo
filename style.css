@@ -11,7 +11,7 @@ color: white;
 
 .table-menu {
   color: white;
-  background: #326fd1;
+
   font-family: Calibri;
  width: 100%; /* Ширина таблицы */
  /*border: 1px solid green;  Рамка вокруг таблицы */
@@ -53,6 +53,9 @@ a {
 td {
  //border: 1px solid;
  //border: 1px solid;
+   background: #326fd1;
+  border-radius: 10px;
+  border: 1px solid #000;
  text-align: center; /* Выравниваем текст по центру ячейки */
 }
 .td-menu {
