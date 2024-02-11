@@ -57,6 +57,8 @@ a {
 }
 .void {
   width:25%;
+  border-left: 3px solid;
+  border-right: 3px solid;
 
 }
 .text-p{
